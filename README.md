@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is my track suggester survey that will suggest a course by Epicodus, based on user answers
+This is my track suggester survey that will suggest a course by Epicodus, based on user answers.  There are a total of 5 questions and based on these answers, suggests one of the three courses: CSS/Design, Java/Android and C#/.NET.
 
 
 ### Link https://github.com/irishdowd10/track-suggester.git
