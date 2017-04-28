@@ -1,0 +1,35 @@
+body {
+  background-color: #c0ced8;
+}
+
+h1, h2, p {
+  font-family: 'Share Tech Mono', monospace;
+;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+}
+
+
+label {
+  font-family: 'Share Tech Mono', monospace;
+
+}
+
+span {
+  font-weight: bolder;
+}
+
+.answers {
+  text-align: center;
+}
+
+.container {
+  border: 2px solid black;
+}
+
+#CSS, #Ruby, #C,{
+  display: none;
+}
