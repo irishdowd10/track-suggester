@@ -12,15 +12,15 @@ $(document).ready(function() {
 
 
     if(!isNaN(result)) {
-      if (result <= 5) {
+      if (result <= 4) {
         $(".option").hide();
         $("#css").show();
-      } else if (result <= 6) {
-        $(".option").hide();
-        $("#ruby").show();
-      } else if (result <= 8) {
+      } else if (result <= 5) {
         $(".option").hide();
         $("#c").show();
+      } else if (result <= 8) {
+        $(".option").hide();
+        $("#java").show();
       }
     } else {
       alert('Please select all values!')
