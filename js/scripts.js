@@ -10,17 +10,20 @@ $(document).ready(function() {
 
   if (result<= 5) {
     $(".option").hide();
-    $("#CSS").show();
+    $("#css").show();
     }
    else if (result<=7) {
      $(".option").hide();
-      $("#Ruby").show();
+      $("#ruby").show();
     }
-    else {
+    else if (result<=8){
       $(".option").hide();
       $("#c").show();
     }
 
   $(".name").text(nameInput);
     event.preventDefault();
+
+  });
+
   });
