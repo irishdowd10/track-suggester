@@ -3,7 +3,7 @@ body {
 }
 
 h1, h2, p {
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Rationale', sans-serif;
 ;
   text-align: center;
 }
@@ -13,7 +13,7 @@ img {
 }
 
 label {
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Rationale', sans-serif;
 
 }
 
@@ -29,6 +29,6 @@ span {
   border: 2px solid black;
 }
 
-#css,#c,#ruby{
+#css,#c,#java{
   display: none;
 }
