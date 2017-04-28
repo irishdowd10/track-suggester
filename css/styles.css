@@ -29,6 +29,6 @@ span {
   border: 2px solid black;
 }
 
-#css, #ruby, #c,{
+#css,#c,#ruby{
   display: none;
 }
