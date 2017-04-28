@@ -20,7 +20,7 @@ $(document).ready(function() {
         $("#c").show();
       } else if (result <= 8) {
         $(".option").hide();
-        $("#java").show();
+        $("#java").show(); .
       }
     } else {
       alert('Please select all values!')

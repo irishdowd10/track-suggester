@@ -1,4 +1,4 @@
-# __
+
 
 #### _DATE: 4-28-17_
 
@@ -6,11 +6,16 @@
 
 ## Description
 
-_This is my track suggester survey that will suggest a course based on user answers.
+_This is my track suggester survey that will suggest a course by Epicodus, based on user answers
 
-##_Setup/Installation Requirements_
-* _Go to Github  https://github.com/irishdowd10/track-suggester.git
-* _Click on the html file and it should open in the browser_
+
+### Link https://github.com/irishdowd10/track-suggester.git
+
+
+## Setup
+
+* Open Terminal on Desktop
+* Clone the project in a text editor of your choice
 
 ## Known Bugs
 _No bugs I can think of at at this time_
